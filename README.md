@@ -10,9 +10,11 @@ NBA Legends is a web application showcasing legendary NBA players. Built with Re
 
 ## Technologies
 
+- HTML5
 - CSS3
 - React
 - React Bootstrap
+- Javascript
 
 # NBA Efsaneleri
 
@@ -26,8 +28,10 @@ NBA Legends, efsanevi NBA oyuncularını gösteren bir web uygulamasıdır. Reac
 
 ## Teknolojiler
 
+- HTML5
 - CSS3
 - React
 - React Bootstrap
+- Javascript
 
 [Live](https://fy-nba-legends.netlify.app/)
