@@ -34,4 +34,6 @@ NBA Legends, efsanevi NBA oyuncularını gösteren bir web uygulamasıdır. Reac
 - React Bootstrap
 - Javascript
 
+https://github.com/user-attachments/assets/d6ab41d5-73e2-4482-a66d-452e60924436
+
 [Live](https://fy-nba-legends.netlify.app/)
