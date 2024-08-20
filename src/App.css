@@ -1,0 +1,79 @@
+/* App.css */
+
+.header {
+  background-color: #1f77b4;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.logo {
+  max-width: 130px;
+}
+
+h1 {
+  background: linear-gradient(90deg, #ff6f61 30%, #ffccbc 50%, #ff6f61 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 2px;
+}
+
+.search {
+  background-color: #ffffff;
+  color: #555;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.search:focus {
+  background-color: #f0f0f0;
+  border-color: #ccc;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+.card-container {
+  background-image: url("https://i.pinimg.com/originals/24/86/51/2486517534aa0b0d175c18c343e50d82.jpg");
+  min-width: 300px;
+  min-height: 432px;
+  background-size: cover;
+  background-position: top;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+}
+
+.player-card {
+  height: 400px;
+  max-width: 280px;
+  min-width: 230px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.player-card:hover {
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.4);
+  transform: scale(1.02);
+}
+
+.player-logo {
+  height: 350px;
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.player-logo:hover {
+  transform: scale(0.9);
+}
+
+.footer {
+  height: 50px;
+  background-color: #f5f5f5;
+}
+
+a {
+  color: #1f77b4;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ff7f0e;
+}
